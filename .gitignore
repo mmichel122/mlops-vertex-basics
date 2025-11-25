@@ -1,0 +1,29 @@
+# --- Python virtual environment ---
+venv/
+.env/
+.venv/
+
+# --- Python caches ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Packaging / Distribution artifacts ---
+dist/
+build/
+*.egg-info/
+*.egg
+
+# --- IDE / Editor files ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- System files ---
+.DS_Store
+
+# --- Logs / temp ---
+*.log
+tmp/
