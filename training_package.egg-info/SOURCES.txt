@@ -1,9 +1,0 @@
-MANIFEST.in
-setup.py
-trainer/__init__.py
-trainer/train.py
-training_package.egg-info/PKG-INFO
-training_package.egg-info/SOURCES.txt
-training_package.egg-info/dependency_links.txt
-training_package.egg-info/requires.txt
-training_package.egg-info/top_level.txt
