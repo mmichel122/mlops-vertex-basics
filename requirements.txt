@@ -1,4 +1,4 @@
-pandas
-scikit-learn
-joblib
-gcsfs
+scikit-learn==1.0.2
+joblib==1.1.0
+pandas==2.0.3
+gcsfs==2023.6.0

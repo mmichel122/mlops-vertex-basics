@@ -5,10 +5,9 @@ setup(
     version="0.1",
     packages=find_packages(),
     install_requires=[
-        "pandas",
-        "scikit-learn",
-        "joblib",
-        "gcsfs",
+        "pandas==2.0.3",
+        "scikit-learn==1.0.2",
+        "joblib==1.1.0",
+        "gcsfs==2023.6.0",
     ],
-    python_requires=">=3.10",
 )
